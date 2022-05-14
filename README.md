@@ -1,8 +1,9 @@
 # First-Repository
 
-HTML:
+Code HTML:
+
 ´´´
 <html>
-        <h1> first HTML code</h1>
-<\html>
+   <h1> first HTML code</h1>
+ <\html>
 ´´´
